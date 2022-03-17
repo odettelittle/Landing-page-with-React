@@ -15,16 +15,28 @@ const Home = () => {
 			<Jumbotron />
 			<div className="row">
 				<div className="col-sm-12 col-md-6 col-lg-3">
-					<Card title="First title" text="Some text" />
+					<Card
+						title="First title"
+						text="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+					/>
 				</div>
 				<div className="col-sm-12 col-md-6 col-lg-3">
-					<Card title="First title" text="Some text" />
+					<Card
+						title="First title"
+						text="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+					/>
 				</div>
 				<div className="col-sm-12 col-md-6 col-lg-3">
-					<Card title="First title" text="Some text" />
+					<Card
+						title="First title"
+						text="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+					/>
 				</div>
 				<div className="col-sm-12 col-md-6 col-lg-3">
-					<Card title="First title" text="Some text" />
+					<Card
+						title="First title"
+						text="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+					/>
 				</div>
 			</div>
 		</>
