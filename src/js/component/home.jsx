@@ -14,17 +14,17 @@ const Home = () => {
 			<Navbar />
 			<Jumbotron />
 			<div className="row">
-				<div className="col-3">
-					<Card title="first title" text="some text" />
+				<div className="col-sm-12 col-lg-3">
+					<Card title="First title" text="Some text" />
 				</div>
 				<div className="col-3">
-					<Card />
+					<Card title="First title" text="Some text" />
 				</div>
 				<div className="col-3">
-					<Card />
+					<Card title="First title" text="Some text" />
 				</div>
 				<div className="col-3">
-					<Card />
+					<Card title="First title" text="Some text" />
 				</div>
 			</div>
 		</>
