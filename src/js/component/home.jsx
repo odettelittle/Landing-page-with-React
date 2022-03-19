@@ -22,19 +22,19 @@ const Home = () => {
 				</div>
 				<div className="col-sm-12 col-md-6 col-lg-3">
 					<Card
-						title="First title"
+						title="Second title"
 						text="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 					/>
 				</div>
 				<div className="col-sm-12 col-md-6 col-lg-3">
 					<Card
-						title="First title"
+						title="Third title"
 						text="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 					/>
 				</div>
 				<div className="col-sm-12 col-md-6 col-lg-3">
 					<Card
-						title="First title"
+						title="Fourth title"
 						text="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 					/>
 				</div>
